@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.homebar{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+}
+
+.homebar h1{
+    margin-left: 30px;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+
+
+.sorvete{
+
+    margin-top: 210px,;
+}
+
+.faixa-01{
+    margin-right: 390px;
+    font-size: 12px;
+    font-family:Arial, Helvetica, sans-serif
+
+
+}
+
+.faixa-02{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.faixa-02 h1{
+    font-size: 20px;
+    margin-left: 8px;
+    margin-top: 10px;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.faixa-02 input{
+    border-radius: 10px;
+}
+
+.faixa-02 button{
+    background-color: #8A4A66;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    color: #fff;
+    font-size: 22px;
+    padding: 7px 15px;
+    border-radius: 10px;
+}
+
+
+.faixa-03{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    
+
+}
+
+.faixa-03 h1{
+    font-size: 17px;
+    padding-right: 700px;
+}
+
+.faixa-03 p{
+    padding-right: 770px;
+}
+

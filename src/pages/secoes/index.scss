@@ -1,0 +1,22 @@
+.pagina-secoes {
+    
+    .titulo {
+        text-align: center;
+        margin: 30px 0px;
+    }
+
+    .lista {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+
+        flex-wrap: wrap;
+        gap: 20px;
+
+        width: 1200px;
+        margin: 0px auto;
+    }
+
+    
+
+}

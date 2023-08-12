@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.homebar{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+}
+
+.homebar h1{
+    margin-left: 30px;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+
+
+.imagem{
+    display: flex;
+    align-items: center;
+    margin-top: 210px,;
+}
+
+.cont1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 300px;
+    font-size: 12px;
+    font-family:Arial, Helvetica, sans-serif
+    
+
+}
+
+.cont2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.cont2 h3{
+    font-size: 20px;
+    margin-left: 8px;
+    margin-top: 10px;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.faixa-02 input{
+    border-radius: 10px;
+}
+
+.cont1 button{
+    background-color: #8A4A66;  
+    cursor: pointer;
+    outline: none;
+    border: none;
+    color: #fff;
+    font-size: 22px;
+    padding: 7px 15px;
+    border-radius: 10px;
+}
+
+
+.faixa-03{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-left: 380px;
+
+}
+
+.faixa-03 h2{
+    font-size: 17px;
+    margin-left: 210px;
+}
+
+.faixa-04{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 10px;
+    margin-left: 400px;
+}

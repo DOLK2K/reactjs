@@ -1,0 +1,14 @@
+.comp-cabecalho {
+    padding: 20px;
+    background-color: rgb(209, 209, 209);
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+    .usuario {
+        height: 50px;
+    }
+    
+}
